@@ -249,7 +249,7 @@ footer {
     padding: 30px 0;
     height: 1400px;
   }
-  .burger {
+  .burger div {
     background-color: #fff;
   }
   .nav-links {
@@ -268,7 +268,7 @@ footer {
             flex-direction: column;
   }
   .meta {
-    width: 100%;
+    width: 70%;
     text-align: center;
   }
   footer {
